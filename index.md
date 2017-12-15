@@ -14,6 +14,8 @@ A long range goal of Hackystat is to facilitate "collective intelligence" in sof
 
 Hackystat is no longer under active development. 
 
+For a brief overview, please watch [Hackystat in a Nutshell](https://www.youtube.com/watch?v=NrLFIpm0wps) (9 minutes).
+
 For documentation, please consult the [Google Code Wiki Archive](https://code.google.com/archive/p/hackystat/wikis).
 
 The code is available at [https://github.com/hackystat](https://github.com/hackystat).
